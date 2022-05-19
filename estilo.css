@@ -1,0 +1,8 @@
+@font-face{
+    font-family: nomeqq;
+    src: url("Infinite\ Darkness.ttf");
+}
+
+p{
+    font-family: nomeqq;
+}
